@@ -16,4 +16,6 @@
 
 Try this markdown:
 
-![alt text](structure.png)
+![image](structure.png)
+
+<img src="structure.png" width="300">
