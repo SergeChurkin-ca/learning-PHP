@@ -13,3 +13,9 @@
 ####               logout => do logout, back to login
 
 
+
+
+
+![image](structure.png)
+
+<img src="structure.png" width="300">
