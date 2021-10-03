@@ -1,0 +1,9 @@
+basic_php_project
+    public/
+        index.php
+        images/
+        stylesheets/
+    private/
+        initialize.php
+        functions.php
+        shared/

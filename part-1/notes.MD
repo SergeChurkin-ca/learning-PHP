@@ -2,7 +2,7 @@
 
 ### Public area:
 ##### - navigation
-##### - page conytent
+##### - page content
 ##### - read only
 
 ### Admin Area
