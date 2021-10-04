@@ -6,7 +6,7 @@
         <title>BO - <? echo $page_title ?></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="../stylesheets/staff.css" rel="stylesheet">
+        <link rel="stylesheet" href="<?php echo url_for('/stylesheets/staff.css'); ?>" />
     </head>
     <body>
     <header>
@@ -14,7 +14,7 @@
     </header>
     <nav>
         <ul>
-        <li><a href="index.php">Menu</a></li>
+        <li><a href="<?php echo url_for(('/staff/index.php')); ?>">Menu</a></li>
         </ul>
     </nav>
 
