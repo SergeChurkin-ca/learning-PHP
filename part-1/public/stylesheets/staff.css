@@ -1,0 +1,23 @@
+@import url(setup.css);
+body {
+    background-color: lightblue;
+}
+
+footer,
+header {
+    background-color: rgb(44, 44, 252);
+    color: #fff;
+    padding: 0;
+    margin: 0 auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 3rem;
+}
