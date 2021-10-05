@@ -8,7 +8,7 @@
     </head>
     <body>
     <footer>
-        &copy; <?php echo date('Y') ?> Bayern Opera Porduction
+        &copy; <?php echo date('Y') ?> Bayern Opera Production
     </footer> 
     </body>
 </html>
