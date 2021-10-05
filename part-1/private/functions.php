@@ -7,4 +7,8 @@
        return WWW_ROOT . $script_path;
    }
 
+   function h($string="") {
+       return htmlspecialchars($string);
+   }
+
 ?>
